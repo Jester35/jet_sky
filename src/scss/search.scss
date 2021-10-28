@@ -1,0 +1,42 @@
+.serach__tabs {
+  margin-bottom: 25px;
+}
+
+.tabs-content {
+  display: none;
+}
+.search__tabs-item {
+  padding: 11px 26px 12px;
+}
+.search__tabs-item.tab--active {
+  background-color: #f0f0f4;
+  font-weight: 700;
+  border-radius: 5px;
+}
+.tabs-content.tabs-content--active {
+  display: block;
+}
+.search__content-form {
+  display: flex;
+}
+.search__content-input {
+  background-color: #f0f0f4;
+  font-size: 16px;
+  line-height: 19px;
+  padding: 5px 20px;
+  width: 100%;
+  &::placeholder {
+    color: #656464;
+  }
+}
+.search__content-btn {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  background-color: #1c62cd;
+  color: #fff;
+  padding: 17px 40px;
+  border-radius: 5px;
+}

@@ -1,0 +1,44 @@
+$BarowFront: "Barlow", sans-serif;
+@import "settings";
+@import "slider";
+@import "header";
+@import "search";
+@import "categories";
+@import "products";
+@import "slick";
+@import "footer";
+// @import "subfooter";
+// @import "about";
+// @import "back_to_top";
+@font-face {
+  font-family: "BarlowCondensedBold", sans-serif;
+  src: url(/fonts/BarlowCondensed-Bold.woff2);
+}
+@font-face {
+  font-family: "BarlowCondensedLight", sans-serif;
+  src: url(/fonts/BarlowCondensed-Light.woff2);
+}
+@font-face {
+  font-family: "BarlowCondensedRegular", sans-serif;
+  src: url(/fonts/BarlowCondensed-Regular.woff2);
+}
+@font-face {
+  font-family: "BarlowCondensedSemiBold", sans-serif;
+  src: url(/fonts/BarlowCondensed-SemiBold.woff2);
+}
+@font-face {
+  font-family: "SFProDisplayBold", sans-serif;
+  src: url(/fonts/SFProDisplay-Bold.woff2);
+}
+@font-face {
+  font-family: "SFProDisplayMedium", sans-serif;
+  src: url(/fonts/SFProDisplay-Medium.woff2);
+}
+@font-face {
+  font-family: "SFProDisplayRegular", sans-serif;
+  src: url(/fonts/SFProDisplay-Regular.woff2);
+}
+@font-face {
+  font-family: "SFProDisplaySemibold", sans-serif;
+  src: url(/fonts/SFProDisplay-Semibold.woff2);
+}
